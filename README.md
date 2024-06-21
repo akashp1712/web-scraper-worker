@@ -1,1 +1,1 @@
-### Cloudflare worker for scraping web pages for LessenText 
+### Cloudflare worker for scraping web pages for LessenText.
